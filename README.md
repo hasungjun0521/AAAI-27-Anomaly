@@ -1,1 +1,1 @@
-# Anomaly_Qwen
+# [AAAI'27] Anomaly
